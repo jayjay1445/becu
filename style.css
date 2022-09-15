@@ -1,5 +1,5 @@
 .container{
-    width: 414px;
+    width: 480px;
     margin: auto;
 }
 .header{
@@ -29,7 +29,6 @@ height: 85px;
     margin-bottom: 30px;
 }
 .user{
-    font-size: small;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding-left: 20px;
 }
@@ -39,7 +38,6 @@ height: 85px;
     margin-bottom: 5px;
 }
 .pass{
-    font-size: small;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding-right: 40px;
     padding-left: 20px;
@@ -138,10 +136,90 @@ height: 85px;
 }
 .ul > li{
     margin: 15px;
+    color: #192838;
     list-style: none;
     margin-bottom: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.fol{
+    padding-left: 10px;
+    color: #192838;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 .logos{
-    width: 250px;
+    display: flex;
+}
+.face{
+    padding-right: 30px;
+    border: 1px solid;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-left: 30px;
+    color: #192838;
+}
+.inst{
+    color: #192838;
+    padding-left: 30px;
+    border: 1px solid;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-right: 30px;
+    
+}
+.twit{
+    color: #192838;
+    padding-left: 30px; 
+    border: 1px solid;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-right: 30px;
+}
+.pint{
+    color: #192838;
+    padding-left: 30px;
+    border: 1px solid;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-right: 30px;
+}
+.linke{
+    color: #192838;
+    padding-left: 30px;
+    border: 1px solid;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-right: 30px;
+}
+.yout{
+    color: #192838;
+    padding-left: 30px;
+    border: 1px solid;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-right: 30px;
+}
+.bec{
+    color: #192838;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 25px;
+    padding-left: 15px;
+}
+.fotimg{
+    margin-top: 15px;
+}
+.ncua{
+    padding-left: 20px;
+    margin-top: 40px;
 }
